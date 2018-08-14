@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MultiWindow Release" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="MultiWindow" TARGET_NAME="MultiWindow" CONFIG_NAME="Release" SCHEME_NAME="MultiWindow Release" RUN_TARGET_PROJECT_NAME="MultiWindow" RUN_TARGET_NAME="MultiWindow" MAKE_ACTIVE="TRUE">
+    <envs />
+    <method />
+  </configuration>
+</component>
